@@ -3,7 +3,7 @@ replace the files:
   STR91x.S
   STR91xCFG.S
 
-Open Blinky on your ARM controller and download the following files to sourses:
+Open Blinky (the main snake play file) on your ARM controller and download the following files to sourses:
   Blinky.c
   Int_a2d.c
   Intio.c
